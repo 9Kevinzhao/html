@@ -1,0 +1,25 @@
+Body{
+  Margin: 0
+  Padding : 0
+}
+#first-section{
+  width: : 1000px ;
+  height: 500px;
+  background-color: white;
+}
+div.row{
+  width: inherit;
+  height: 200px;
+  background-color: white
+}
+div.box{
+  width: 20%;
+  height: inherit;
+  border: 5px white
+}
+
+#second-section{
+  width: : 1000px ;
+  height: 500px;
+  background-color: white;
+}
